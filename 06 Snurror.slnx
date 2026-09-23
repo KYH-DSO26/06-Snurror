@@ -2,4 +2,5 @@
   <Project Path="01 Välkomstsnurran (while)/01 Välkomstsnurran (while).csproj" />
   <Project Path="02 Inmatningsskyddet (do-while)/02 Inmatningsskyddet (do-while).csproj" />
   <Project Path="03 Räknaren (for)/03 Räknaren (for).csproj" />
+  <Project Path="04 Baklänges (for)/04 Baklänges (for).csproj" />
 </Solution>
