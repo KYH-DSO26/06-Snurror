@@ -3,4 +3,6 @@
   <Project Path="02 Inmatningsskyddet (do-while)/02 Inmatningsskyddet (do-while).csproj" />
   <Project Path="03 Räknaren (for)/03 Räknaren (for).csproj" />
   <Project Path="04 Baklänges (for)/04 Baklänges (for).csproj" />
+  <Project Path="05 Namnlistan (foreach)/05 Namnlistan (foreach).csproj" />
+  <Project Path="06 Sök efter guld (break)/06 Sök efter guld (break).csproj" />
 </Solution>
