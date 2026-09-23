@@ -6,4 +6,5 @@
   <Project Path="05 Namnlistan (foreach)/05 Namnlistan (foreach).csproj" />
   <Project Path="06 Sök efter guld (break)/06 Sök efter guld (break).csproj" />
   <Project Path="07 Hoppa över dolda filer (continue)/07 Hoppa över dolda filer (continue).csproj" />
+  <Project Path="08 Multiplikationstabellen (Nästlade snurror)/08 Multiplikationstabellen (Nästlade snurror).csproj" />
 </Solution>
