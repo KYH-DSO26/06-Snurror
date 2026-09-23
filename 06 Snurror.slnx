@@ -11,4 +11,7 @@
   <Project Path="10 Textanalysatorn (foreach och char)/10 Textanalysatorn (foreach och char).csproj" />
   <Project Path="11 Temperaturloggen (blandade snurror)/11 Temperaturloggen (blandade snurror).csproj" />
   <Project Path="12 Den robusta sifferinmataren (Felhantering i snurra)/12 Den robusta sifferinmataren (Felhantering i snurra).csproj" />
+  <Project Path="13 Rymbskeppets koordinater/13 Rymbskeppets koordinater.csproj" />
+  <Project Path="14 Sträng-komprimeraren/14 Sträng-komprimeraren.csproj" />
+  <Project Path="15 Flaggspelet med Bitwise/15 Flaggspelet med Bitwise.csproj" />
 </Solution>
