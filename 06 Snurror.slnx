@@ -7,4 +7,5 @@
   <Project Path="06 Sök efter guld (break)/06 Sök efter guld (break).csproj" />
   <Project Path="07 Hoppa över dolda filer (continue)/07 Hoppa över dolda filer (continue).csproj" />
   <Project Path="08 Multiplikationstabellen (Nästlade snurror)/08 Multiplikationstabellen (Nästlade snurror).csproj" />
+  <Project Path="09 Menyvalet med nödutgång (while-true och break)/09 Menyvalet med nödutgång (while-true och break).csproj" />
 </Solution>
