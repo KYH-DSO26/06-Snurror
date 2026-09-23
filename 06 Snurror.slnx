@@ -10,4 +10,5 @@
   <Project Path="09 Menyvalet med nödutgång (while-true och break)/09 Menyvalet med nödutgång (while-true och break).csproj" />
   <Project Path="10 Textanalysatorn (foreach och char)/10 Textanalysatorn (foreach och char).csproj" />
   <Project Path="11 Temperaturloggen (blandade snurror)/11 Temperaturloggen (blandade snurror).csproj" />
+  <Project Path="12 Den robusta sifferinmataren (Felhantering i snurra)/12 Den robusta sifferinmataren (Felhantering i snurra).csproj" />
 </Solution>
